@@ -1,0 +1,35 @@
+
+nav {
+    display: flex;
+    background-color: rgb(189, 168, 168);
+    padding: 0px 20px;
+    justify-content: center;
+    border: ridge;
+    
+}
+
+
+
+li {
+    display: inline-block;
+    margin-right: 40px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+body{
+    background-color:rgb(217, 204, 204);
+    border: ridge;
+}
+
+
+
+footer{
+    text-align: center;
+    border: ridge;
+}
